@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://jim-app.oss-cn-shenzhen.aliyuncs.com/ios/Bravat.ipa</string>
+                    <string>https://raw.githubusercontent.com/jimju/ForReleaseApk/master/BNBravat/IOS/BNBravat.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
